@@ -1,6 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+//buat hacktober fest
+
 void main() => runApp(QuizApp());
 
 class QuizApp extends StatelessWidget {
